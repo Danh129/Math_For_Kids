@@ -49,7 +49,9 @@ Dự án được xây dựng dựa trên:
 ## Hình ảnh minh họa
 | Màn hình chính | Làm bài tập | Kết quả |
 | :---: | :---: | :---: |
-| ![Form1](<img width="1210" height="838" alt="Screenshot 2026-04-24 171156" src="https://github.com/user-attachments/assets/467595e9-93bb-4a2a-8b7d-5e300d6f29b5" />) | ![Form2](<img width="740" height="554" alt="Screenshot 2026-04-27 195655" src="https://github.com/user-attachments/assets/0cd10786-8cab-4ebe-981b-6924246cc35b" />) | ![Form3](<img width="1320" height="855" alt="Screenshot 2026-04-24 172244" src="https://github.com/user-attachments/assets/12d60b89-1620-480b-a0c9-150aee8ac3cb" />) |
+| ![Form1](<img width="1210" height="838" alt="Screenshot 2026-04-24 171156" src="https://github.com/user-attachments/assets/467595e9-93bb-4a2a-8b7d-5e300d6f29b5" />) |
+![Form2](<img width="740" height="554" alt="Screenshot 2026-04-27 195655" src="https://github.com/user-attachments/assets/0cd10786-8cab-4ebe-981b-6924246cc35b" />) | 
+![Form3](<img width="1320" height="855" alt="Screenshot 2026-04-24 172244" src="https://github.com/user-attachments/assets/12d60b89-1620-480b-a0c9-150aee8ac3cb" />) |
 
 ---
 
