@@ -1,0 +1,13 @@
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\bin\Debug\Giao_Dien_Toan_Cap1.exe.config
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\bin\Debug\Giao_Dien_Toan_Cap1.exe
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\bin\Debug\Giao_Dien_Toan_Cap1.pdb
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\obj\Debug\Giao_Dien_Toan_Cap1.csproj.AssemblyReference.cache
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\obj\Debug\Giao_Dien_Toan_Cap1.Form1.resources
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\obj\Debug\Giao_Dien_Toan_Cap1.Form2.resources
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\obj\Debug\Giao_Dien_Toan_Cap1.Properties.Resources.resources
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\obj\Debug\Giao_Dien_Toan_Cap1.csproj.GenerateResource.cache
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\obj\Debug\Giao_Dien_Toan_Cap1.csproj.CoreCompileInputs.cache
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\obj\Debug\Giao_Dien_Toan_Cap1.exe
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\obj\Debug\Giao_Dien_Toan_Cap1.pdb
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\obj\Debug\Giao_Dien_Toan_Cap1.Form3.resources
+C:\Giao_Dien_Toan_Cap1\Giao_Dien_Toan_Cap1\obj\Debug\Giao_Dien_Toan_Cap1.Form4.resources
