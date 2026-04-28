@@ -47,8 +47,6 @@ Dự án được xây dựng dựa trên:
 --- 
 
 ## Hình ảnh minh họa
-| Màn hình chính | Làm bài tập | Kết quả |
-| :---: | :---: | :---: |
 | ![Form1](<img width="1320" height="855" alt="form1" src="https://github.com/user-attachments/assets/82c4f82c-e306-447e-bcf4-b5b456e4b2d2" />
 ) | ![Form2](<img width="740" height="554" alt="form2" src="https://github.com/user-attachments/assets/648bc04f-07a8-4c18-89c6-ef64bd151eee" />
 ) | ![Form3](<img width="1210" height="838" alt="form3" src="https://github.com/user-attachments/assets/897e949c-1c39-4391-a56a-989d51d94c30" />
