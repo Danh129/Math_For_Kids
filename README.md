@@ -48,16 +48,14 @@ Dự án được xây dựng dựa trên:
 
 ## Hình ảnh minh họa
 ### Form 1
-> [<img width="1320" height="855" alt="form1" src="https://github.com/user-attachments/assets/6066405b-67d2-4f09-961f-af5da23f6998" />]
-
+> [<img width="1210" height="838" alt="form3" src="https://github.com/user-attachments/assets/6af0cf95-2da8-48a5-a910-bf681b86af16" />]
 
 ### Form 2
 > [<img width="740" height="554" alt="form2" src="https://github.com/user-attachments/assets/e8c8ea78-d2ec-4fa4-966d-3b53da4fc81d" />]
 
 
 ### Form 3
-> [<img width="1210" height="838" alt="form3" src="https://github.com/user-attachments/assets/6af0cf95-2da8-48a5-a910-bf681b86af16" /]
-
+> [<img width="1320" height="855" alt="form1" src="https://github.com/user-attachments/assets/6066405b-67d2-4f09-961f-af5da23f6998" />]
 
 ---
 
